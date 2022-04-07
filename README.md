@@ -32,7 +32,7 @@ You can redo the process by pressing RB3.
 <h1> Other interesting projects here </h1>
   <h2> Serial communication demo </h2>
    
-<embed src="https://user-images.githubusercontent.com/91315037/162193168-25597a41-3841-476b-a6ae-3d08eb1b8a75.mp4">
+https://user-images.githubusercontent.com/91315037/162193168-25597a41-3841-476b-a6ae-3d08eb1b8a75.mp4
 
   <h2> PWM music box </h2> 
     It's programmed for a 4mhz physical board pic18f4455 <br>
