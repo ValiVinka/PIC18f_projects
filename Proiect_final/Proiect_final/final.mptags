@@ -1,0 +1,61 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+LCD_command	C:\Users\Uta\Downloads\Proiect_final\Proiect_final\main.c	293;"	f	line:293	signature:(unsigned char value)
+LCD_command	C:\Users\Uta\Downloads\Proiect_final\Proiect_final\main.c	80;"	p	line:80	file:	signature:(unsigned char value)
+LCD_write_string	C:\Users\Uta\Downloads\Proiect_final\Proiect_final\main.c	304;"	f	line:304	signature:(static char *str)
+LCD_write_string	C:\Users\Uta\Downloads\Proiect_final\Proiect_final\main.c	83;"	p	line:83	file:	signature:(static char *str)
+Rez	C:\Users\Uta\Downloads\Proiect_final\Proiect_final\main.c	54;"	v	line:54
+a	C:\Users\Uta\Downloads\Proiect_final\Proiect_final\main.c	50;"	v	line:50
+adc_amostra	C:\Users\Uta\Downloads\Proiect_final\Proiect_final\main.c	20;"	f	line:20	signature:(unsigned char canal)
+adc_init	C:\Users\Uta\Downloads\Proiect_final\Proiect_final\main.c	11;"	f	line:11	signature:(void)
+b	C:\Users\Uta\Downloads\Proiect_final\Proiect_final\main.c	50;"	v	line:50
+buffer	C:\Users\Uta\Downloads\Proiect_final\Proiect_final\main.c	61;"	v	line:61
+c	C:\Users\Uta\Downloads\Proiect_final\Proiect_final\main.c	50;"	v	line:50
+celsius	C:\Users\Uta\Downloads\Proiect_final\Proiect_final\main.c	75;"	v	line:75
+cooler::LATCbits.LATC2	C:\Users\Uta\Downloads\Proiect_final\Proiect_final\main.c	8;"	d	line:8	file:
+counter	C:\Users\Uta\Downloads\Proiect_final\Proiect_final\main.c	51;"	v	line:51
+d	C:\Users\Uta\Downloads\Proiect_final\Proiect_final\main.c	50;"	v	line:50
+en::PORTEbits.RE1	C:\Users\Uta\Downloads\Proiect_final\Proiect_final\main.c	49;"	d	line:49	file:
+flag	C:\Users\Uta\Downloads\Proiect_final\Proiect_final\main.c	53;"	v	line:53
+heater::PORTCbits.RC5	C:\Users\Uta\Downloads\Proiect_final\Proiect_final\main.c	9;"	d	line:9	file:
+i	C:\Users\Uta\Downloads\Proiect_final\Proiect_final\main.c	306;"	l	line:306
+i	C:\Users\Uta\Downloads\Proiect_final\Proiect_final\main.c	59;"	v	line:59
+intrerupere	C:\Users\Uta\Downloads\Proiect_final\Proiect_final\main.c	91;"	f	line:91	signature:(void)
+itens	C:\Users\Uta\Downloads\Proiect_final\Proiect_final\main.c	58;"	v	line:58
+j	C:\Users\Uta\Downloads\Proiect_final\Proiect_final\main.c	64;"	v	line:64
+k	C:\Users\Uta\Downloads\Proiect_final\Proiect_final\main.c	329;"	l	line:329
+lcddata	C:\Users\Uta\Downloads\Proiect_final\Proiect_final\main.c	316;"	f	line:316	signature:(unsigned char value)
+lcddata	C:\Users\Uta\Downloads\Proiect_final\Proiect_final\main.c	81;"	p	line:81	file:	signature:(unsigned char value)
+ldata::PORTD	C:\Users\Uta\Downloads\Proiect_final\Proiect_final\main.c	46;"	d	line:46	file:
+main	C:\Users\Uta\Downloads\Proiect_final\Proiect_final\main.c	100;"	f	line:100
+msdelay	C:\Users\Uta\Downloads\Proiect_final\Proiect_final\main.c	327;"	f	line:327	signature:(unsigned int itime)
+msdelay	C:\Users\Uta\Downloads\Proiect_final\Proiect_final\main.c	82;"	p	line:82	file:	signature:(unsigned int itime)
+msg1	C:\Users\Uta\Downloads\Proiect_final\Proiect_final\main.c	65;"	v	line:65
+msg10	C:\Users\Uta\Downloads\Proiect_final\Proiect_final\main.c	74;"	v	line:74
+msg2	C:\Users\Uta\Downloads\Proiect_final\Proiect_final\main.c	66;"	v	line:66
+msg3	C:\Users\Uta\Downloads\Proiect_final\Proiect_final\main.c	67;"	v	line:67
+msg4	C:\Users\Uta\Downloads\Proiect_final\Proiect_final\main.c	68;"	v	line:68
+msg5	C:\Users\Uta\Downloads\Proiect_final\Proiect_final\main.c	69;"	v	line:69
+msg6	C:\Users\Uta\Downloads\Proiect_final\Proiect_final\main.c	70;"	v	line:70
+msg7	C:\Users\Uta\Downloads\Proiect_final\Proiect_final\main.c	71;"	v	line:71
+msg8	C:\Users\Uta\Downloads\Proiect_final\Proiect_final\main.c	72;"	v	line:72
+msg9	C:\Users\Uta\Downloads\Proiect_final\Proiect_final\main.c	73;"	v	line:73
+multi	C:\Users\Uta\Downloads\Proiect_final\Proiect_final\main.c	52;"	v	line:52
+n	C:\Users\Uta\Downloads\Proiect_final\Proiect_final\main.c	55;"	v	line:55
+numere	C:\Users\Uta\Downloads\Proiect_final\Proiect_final\main.c	62;"	v	line:62
+numerepct	C:\Users\Uta\Downloads\Proiect_final\Proiect_final\main.c	63;"	v	line:63
+rs::PORTEbits.RE2	C:\Users\Uta\Downloads\Proiect_final\Proiect_final\main.c	47;"	d	line:47	file:
+rutina_intrerupere	C:\Users\Uta\Downloads\Proiect_final\Proiect_final\main.c	182;"	f	line:182
+rutina_intrerupere	C:\Users\Uta\Downloads\Proiect_final\Proiect_final\main.c	87;"	p	line:87	file:	signature:(void)
+rw::PORTEbits.RE0	C:\Users\Uta\Downloads\Proiect_final\Proiect_final\main.c	48;"	d	line:48	file:
+status	C:\Users\Uta\Downloads\Proiect_final\Proiect_final\main.c	60;"	v	line:60
+temp	C:\Users\Uta\Downloads\Proiect_final\Proiect_final\main.c	56;"	v	line:56
+temps	C:\Users\Uta\Downloads\Proiect_final\Proiect_final\main.c	77;"	v	line:77
+tens	C:\Users\Uta\Downloads\Proiect_final\Proiect_final\main.c	57;"	v	line:57
+timp	C:\Users\Uta\Downloads\Proiect_final\Proiect_final\main.c	76;"	v	line:76

@@ -1,0 +1,49 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+LCD_command	D:\School\Sisteme cu microprocesoare\SerialPORT2\main.c	195;"	f	line:195	signature:(unsigned char value)
+LCD_command	D:\School\Sisteme cu microprocesoare\SerialPORT2\main.c	37;"	p	line:37	file:	signature:(unsigned char value)
+LCD_write_string	D:\School\Sisteme cu microprocesoare\SerialPORT2\main.c	206;"	f	line:206	signature:(static char *str)
+LCD_write_string	D:\School\Sisteme cu microprocesoare\SerialPORT2\main.c	40;"	p	line:40	file:	signature:(static char *str)
+Rez	D:\School\Sisteme cu microprocesoare\SerialPORT2\main.c	17;"	v	line:17
+a	D:\School\Sisteme cu microprocesoare\SerialPORT2\main.c	14;"	v	line:14
+action	D:\School\Sisteme cu microprocesoare\SerialPORT2\main.c	19;"	v	line:19
+b	D:\School\Sisteme cu microprocesoare\SerialPORT2\main.c	14;"	v	line:14
+buffer	D:\School\Sisteme cu microprocesoare\SerialPORT2\main.c	23;"	v	line:23
+c	D:\School\Sisteme cu microprocesoare\SerialPORT2\main.c	14;"	v	line:14
+config_serial	D:\School\Sisteme cu microprocesoare\SerialPORT2\main.c	42;"	f	line:42
+counter	D:\School\Sisteme cu microprocesoare\SerialPORT2\main.c	15;"	v	line:15
+d	D:\School\Sisteme cu microprocesoare\SerialPORT2\main.c	14;"	v	line:14
+data	D:\School\Sisteme cu microprocesoare\SerialPORT2\main.c	18;"	v	line:18
+en::PORTEbits.RE1	D:\School\Sisteme cu microprocesoare\SerialPORT2\main.c	13;"	d	line:13	file:
+i	D:\School\Sisteme cu microprocesoare\SerialPORT2\main.c	208;"	l	line:208
+i	D:\School\Sisteme cu microprocesoare\SerialPORT2\main.c	22;"	v	line:22
+j	D:\School\Sisteme cu microprocesoare\SerialPORT2\main.c	26;"	v	line:26
+k	D:\School\Sisteme cu microprocesoare\SerialPORT2\main.c	231;"	l	line:231
+lcddata	D:\School\Sisteme cu microprocesoare\SerialPORT2\main.c	218;"	f	line:218	signature:(unsigned char value)
+lcddata	D:\School\Sisteme cu microprocesoare\SerialPORT2\main.c	38;"	p	line:38	file:	signature:(unsigned char value)
+ldata::PORTD	D:\School\Sisteme cu microprocesoare\SerialPORT2\main.c	10;"	d	line:10	file:
+main	D:\School\Sisteme cu microprocesoare\SerialPORT2\main.c	53;"	f	line:53
+msdelay	D:\School\Sisteme cu microprocesoare\SerialPORT2\main.c	229;"	f	line:229	signature:(unsigned int itime)
+msdelay	D:\School\Sisteme cu microprocesoare\SerialPORT2\main.c	39;"	p	line:39	file:	signature:(unsigned int itime)
+msg	D:\School\Sisteme cu microprocesoare\SerialPORT2\main.c	20;"	v	line:20
+msg1	D:\School\Sisteme cu microprocesoare\SerialPORT2\main.c	27;"	v	line:27
+msg2	D:\School\Sisteme cu microprocesoare\SerialPORT2\main.c	28;"	v	line:28
+msg3	D:\School\Sisteme cu microprocesoare\SerialPORT2\main.c	30;"	v	line:30
+msg4	D:\School\Sisteme cu microprocesoare\SerialPORT2\main.c	31;"	v	line:31
+msga	D:\School\Sisteme cu microprocesoare\SerialPORT2\main.c	33;"	v	line:33
+msgs	D:\School\Sisteme cu microprocesoare\SerialPORT2\main.c	32;"	v	line:32
+msgunu	D:\School\Sisteme cu microprocesoare\SerialPORT2\main.c	34;"	v	line:34
+msgv	D:\School\Sisteme cu microprocesoare\SerialPORT2\main.c	29;"	v	line:29
+multi	D:\School\Sisteme cu microprocesoare\SerialPORT2\main.c	16;"	v	line:16
+n	D:\School\Sisteme cu microprocesoare\SerialPORT2\main.c	21;"	v	line:21
+numere	D:\School\Sisteme cu microprocesoare\SerialPORT2\main.c	24;"	v	line:24
+numerepct	D:\School\Sisteme cu microprocesoare\SerialPORT2\main.c	25;"	v	line:25
+rs::PORTEbits.RE2	D:\School\Sisteme cu microprocesoare\SerialPORT2\main.c	11;"	d	line:11	file:
+rutina_intrerupere	D:\School\Sisteme cu microprocesoare\SerialPORT2\main.c	183;"	f	line:183
+rw::PORTEbits.RE0	D:\School\Sisteme cu microprocesoare\SerialPORT2\main.c	12;"	d	line:12	file:
