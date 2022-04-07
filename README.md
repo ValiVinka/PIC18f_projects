@@ -31,8 +31,9 @@ You can redo the process by pressing RB3.
 
 <h1> Other interesting projects here </h1>
   <h2> Serial communication demo </h2>
-    ![2022-04-07_14-43-39_AdobeCreativeCloudExpress](https://user-images.githubusercontent.com/91315037/162191404-a359d7a6-5c5c-497d-ae8f-1cf317ba9d1d.gif)
-  
+   
+  ![2022-04-07_14-43-39_AdobeCreativeCloudExpress](https://user-images.githubusercontent.com/91315037/162192621-e30392bd-2855-4951-ac19-7a8e7c19eb5f.gif)
+
   <h2> PWM music box </h2> 
     It's programmed for a 4mhz physical board pic18f4455 <br>
     It can sing "Oda bucurieri" and "The Imperial March" <br>
