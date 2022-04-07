@@ -2,7 +2,7 @@
 PIC microcontroller projects
 
 <h1> Proiect final </h1> 
-Here is my final project for the PIC programming class in my 3rd year of college.
+Here is my final project for the PIC programming class in my 3rd year of college. <br>
 It's a board Overclock simulator, and it contains the following in the picsimlab simulator: 
 PIC18F4550 board, temperature sensor, heater, vent, input buttons, output 7 segment LEDS and an LCD 16x2 screen.
 
@@ -23,4 +23,14 @@ And when the temperature drops below 40 degrees C, the vent will turn off.
 
 You can redo the process by pressing RB3.
 
+<h2> Future TO DO </h2>
+<ul> 
+  <li> Better button response time </li>
+  <li> Serial communication actions </li>
+    </ul>
+
 <h1> Other interesting projects here </h1>
+  <h2> Serial communication demo </h2>
+    
+    
+    
